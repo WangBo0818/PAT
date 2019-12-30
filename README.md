@@ -15,7 +15,7 @@
 	 - [1006 换个格式输出整数](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1006.java)
 	 - [1007 素数对猜想](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1007.java)
 	 - [1008 数组元素循环右移问题](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1008.java)
-	 - [说反话](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1009.java)
+	 - [1009 说反话](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1009.java)
 	 - [1010 一元多项式求导](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1010.java)
 	 - [1011 A+B 和 C](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1011.java)
 	 - [1012 数字分类](https://github.com/WangBo0818/PAT/blob/master/src/Pat_1012.java)
